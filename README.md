@@ -7,6 +7,10 @@
 ## ⚡ Overview
 Deploy the industry's leading OCR parsing projects via the vLLM inference framework — MinerU, DeepSeek‑OCR, and PaddleOCR‑VL — and build a multimodal data analysis system with a unified parsing service interface. The project includes optimizations and wrappers for `DeepSeek‑OCR` and `MinerU` service interfaces, making it ready for enterprise use.
 
+
+https://github.com/user-attachments/assets/56b736dd-ca70-4b5c-a3c9-24837908e1e5
+
+
 For installation and detailed instructions for MinerU, PaddleOCR‑VL, and DeepSeekOCR, see the <a href="./Deployment.md">tutorial</a>.
 
 ## 🎯 Key Features
