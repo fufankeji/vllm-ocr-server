@@ -8,6 +8,10 @@
 通过vLLM推理框架部署目前行业内性能最强的OCR解析项目：MinerU、DeepSeek-OCR和PaddleOCR-VL，并实现具有统一解析服务接口的多模态数据分析系统。包含针对`DeepSeek-OCR`、`MinerU`等服务接口的优化及封装，可以直接在企业中落地。
 
 
+https://github.com/user-attachments/assets/d2ef05be-fa3b-4037-9ce5-49be52cc71b5
+
+
+
 其中 MinerU、PaddleOCR-VL、DeepSeekOCR 安装和详解请参考 <a href="./Deployment.md">教程</a>
 
 ## 🎯 主要功能
